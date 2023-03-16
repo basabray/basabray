@@ -1,4 +1,4 @@
-<h3 align="center">Hey There, I'm Basabdatta Ray and I deal with data on a daily basis</h3>
+<h3 align="center">Hey There, I'm Basabdatta Ray, Data Scientist @Mindtree and I deal with data on a daily basis</h3>
 <h4 align="center">Connect With Me @ <a href="https://www.linkedin.com/in/basabray" target="_blank"><b>LinkedIn</b></a></h4> 
 <h4 align="center">🙂</h4>
 
