@@ -1,4 +1,5 @@
-### Hi there 👋
+### Data is The New Oil and I Understand Data 🙂
+### <h4 align="center">Connect With Me @ <a href="https://www.linkedin.com/in/basabray" target="_blank"><b>LinkedIn</b></a></h4>
 
 <!--
 **basabray/basabray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
